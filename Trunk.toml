@@ -1,0 +1,9 @@
+[build]
+public_url = "./"
+
+[serve]
+port = 9101
+
+[[copy]]
+source = "assets/levels"
+destination = "assets/levels"

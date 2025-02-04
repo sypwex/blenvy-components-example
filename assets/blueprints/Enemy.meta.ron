@@ -1,0 +1,15 @@
+(
+  assets:
+   [ 
+    ("Humanoid_cactus", File ( path: "blueprints/Humanoid_cactus.glb" )),
+    ("Hand", File ( path: "blueprints/Hand.glb" )),
+    ("Finger", File ( path: "blueprints/Finger.glb" )),
+    ("Finger", File ( path: "blueprints/Finger.glb" )),
+    ("Finger", File ( path: "blueprints/Finger.glb" )),
+    ("Hand", File ( path: "blueprints/Hand.glb" )),
+    ("Finger", File ( path: "blueprints/Finger.glb" )),
+    ("Finger", File ( path: "blueprints/Finger.glb" )),
+    ("Finger", File ( path: "blueprints/Finger.glb" )),
+    ("Env_blue.001", File ( path: "materials/Env_blue.001.glb" )),
+   ]
+)

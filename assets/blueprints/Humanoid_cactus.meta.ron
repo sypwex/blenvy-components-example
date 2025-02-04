@@ -1,0 +1,13 @@
+(
+  assets:
+   [ 
+    ("Hand", File ( path: "blueprints/Hand.glb" )),
+    ("Finger", File ( path: "blueprints/Finger.glb" )),
+    ("Finger", File ( path: "blueprints/Finger.glb" )),
+    ("Finger", File ( path: "blueprints/Finger.glb" )),
+    ("Hand", File ( path: "blueprints/Hand.glb" )),
+    ("Finger", File ( path: "blueprints/Finger.glb" )),
+    ("Finger", File ( path: "blueprints/Finger.glb" )),
+    ("Finger", File ( path: "blueprints/Finger.glb" )),
+   ]
+)
