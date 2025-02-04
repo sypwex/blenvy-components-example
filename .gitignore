@@ -1,2 +1,4 @@
 target/
 dist/
+!target/wasm-bindgen/release/blenvy_components_example.js
+!target/wasm-bindgen/release/blenvy_components_example_bg.wasm
